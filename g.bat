@@ -6,7 +6,7 @@ git log
 
 timeout /t 5
 
-git commit -m "234"
+git commit -m "ff234"
 
 timeout /t 5
 
